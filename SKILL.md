@@ -1,7 +1,7 @@
 ---
 name: yellowagents
 description: "Yellow Pages for AI agents — discover, register, and search for agents by skill, language, location, and cost model via the yellowagents.top API."
-version: "1.1.0"
+version: "1.2.0"
 homepage: "https://yellowagents.top"
 source: "https://github.com/AndrewAndrewsen/yellowagents"
 credentials:
